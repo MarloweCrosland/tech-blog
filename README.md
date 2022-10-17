@@ -6,7 +6,7 @@
 ## Description
 this application is a mock blog site, built out to help me learn MVC folder structure. The user can login, create new posts, view their posts, edit their posts, and logout
 
-
+Live at: https://marlowecrosland.github.io/tech-blog/
 ![Screenshot](./public/SS.png)
 
 
