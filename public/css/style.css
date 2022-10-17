@@ -91,6 +91,7 @@ input {
   background-color: var(--tertiary);
   transform: translate(0, 0);
   box-shadow: 2px 2px var(--dark);
+  cursor: pointer;
 }
 
 .btn-inline {
@@ -166,6 +167,7 @@ input {
   text-decoration: none;
 }
 
+
 /* CARDS */
 .card {
   margin: 0 0 20px 0;
@@ -182,6 +184,14 @@ input {
 
 .card-body {
   padding: 1%;
+}
+
+.card-body2 {
+  padding: 3%;
+  color: var(--primary);
+  background-color: var(--dark);
+  font-size: 1rem;
+  margin: 10px;
 }
 
 /* FORM */
